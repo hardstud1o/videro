@@ -1,1 +1,0 @@
-Start-Process "C:\XboxGames\ARC Raiders\Content\gamelaunchhelper.exe"
